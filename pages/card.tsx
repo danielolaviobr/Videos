@@ -9,6 +9,7 @@ const Card = () => {
           src="/person.jpg"
           height={256}
           width={256}
+          priority
           objectFit="cover"
           className="rounded-full"
         />
